@@ -76,7 +76,7 @@ Next, we want to change `this.props.time` to `this.state.time` in our `render()`
 
 Looks like everything is in order, but we still have one more problem to solve. How do we get the component to update itself every second?
 
-## Lifecylce methods
+## Lifecycle methods
 
 That's where lifecyle methods come into play.
 
